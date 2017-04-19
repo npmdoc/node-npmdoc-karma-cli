@@ -1,9 +1,14 @@
-# api documentation for  [karma-cli (v1.0.1)](http://karma-runner.github.io/)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-cli.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-cli)
+# npmdoc-karma-cli
+
+#### api documentation for  [karma-cli (v1.0.1)](http://karma-runner.github.io/)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-cli.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-cli)
+
 #### The Karma command line interface.
 
-[![NPM](https://nodei.co/npm/karma-cli.png?downloads=true)](https://www.npmjs.com/package/karma-cli)
+[![NPM](https://nodei.co/npm/karma-cli.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/karma-cli)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-karma-cli/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-karma-cli_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-karma-cli/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-karma-cli/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-karma-cli/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-karma-cli/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-karma-cli/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-karma-cli/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Vojta Jína",
-        "email": "vojta.jina@gmail.com"
+        "name": "Vojta Jína"
     },
     "bin": {
         "karma": "./bin/karma"
@@ -28,40 +32,31 @@
     },
     "contributors": [
         {
-            "name": "Vojta Jina",
-            "email": "vojta.jina@gmail.com"
+            "name": "Vojta Jina"
         },
         {
-            "name": "Friedel Ziegelmayer",
-            "email": "dignifiedquire@gmail.com"
+            "name": "Friedel Ziegelmayer"
         },
         {
-            "name": "Jan Raasch",
-            "email": "jan@janraasch.com"
+            "name": "Jan Raasch"
         },
         {
-            "name": "Mark Ethan Trostler",
-            "email": "mark@zzo.com"
+            "name": "Mark Ethan Trostler"
         },
         {
-            "name": "Maksim Ryzhikov",
-            "email": "rv.maksim@gmail.com"
+            "name": "Maksim Ryzhikov"
         },
         {
-            "name": "Robo",
-            "email": "hop2deep@gmail.com"
+            "name": "Robo"
         },
         {
-            "name": "Bas Bosman",
-            "email": "github@nazgul.nu"
+            "name": "Bas Bosman"
         },
         {
-            "name": "deepak1556",
-            "email": "hop2deep@gmail.com"
+            "name": "deepak1556"
         },
         {
-            "name": "Brian Hann",
-            "email": "emailc0bra@gmail.com"
+            "name": "Brian Hann"
         }
     ],
     "dependencies": {
@@ -103,22 +98,18 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "vojtajina",
-            "email": "vojta.jina+npm@gmail.com"
+            "name": "vojtajina"
         },
         {
-            "name": "zzo",
-            "email": "mark@zzo.com"
+            "name": "zzo"
         },
         {
-            "name": "dignifiedquire",
-            "email": "dignifiedquire@gmail.com"
+            "name": "dignifiedquire"
         }
     ],
     "name": "karma-cli",
     "optionalDependencies": {},
     "preferGlobal": true,
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/karma-runner/karma-cli.git"
@@ -127,16 +118,6 @@
     "version": "1.0.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module karma-cli](#apidoc.module.karma-cli)
-
-
-
-# <a name="apidoc.module.karma-cli"></a>[module karma-cli](#apidoc.module.karma-cli)
 
 
 
